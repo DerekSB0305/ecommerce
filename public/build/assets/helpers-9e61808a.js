@@ -1,0 +1,1 @@
+const a=Intl.NumberFormat("de-DE",{maximumFractionDigits:0}),o=t=>(t=t||0,"$ "+a.format(parseFloat(t))),m=t=>new Intl.DateTimeFormat("es",{weekday:"long",day:"2-digit",year:"numeric",month:"short"}).format(new Date(t));export{m as a,o as f};

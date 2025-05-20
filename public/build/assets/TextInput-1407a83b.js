@@ -1,0 +1,1 @@
+import{r as t,a as n,F as o}from"./app-22fcf5ab.js";const l=t.forwardRef(function({type:s="text",className:a="",isFocused:u=!1,label:p=null,...f},e){const r=e||t.useRef();return t.useEffect(()=>{u&&r.current.focus()},[]),n(o,{children:n("input",{...f,type:s,className:"input-form "+a,ref:r})})});export{l as T};

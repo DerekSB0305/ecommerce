@@ -1,0 +1,1 @@
+import{j as l,a as t}from"./app-22fcf5ab.js";const n=({title:e,entry:s,className:a})=>l("div",{className:"pt-content "+a,children:[t("h2",{className:"text-3xl font-bold tracking-tight sm:text-5xl",children:e}),t("p",{className:"mt-6 text-lg leading-7 ",children:s})]}),c=n;export{c as H};

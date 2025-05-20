@@ -1,0 +1,1 @@
+import{j as t,F as c,a as e}from"./app-22fcf5ab.js";function o({title:n=null,entry:s,children:a,className:i,...l}){return t(c,{children:[e("h2",{...l,className:"title-section "+i,children:n||a}),s&&e("span",{className:"mt-2 inline-block",children:s})]})}export{o as S};

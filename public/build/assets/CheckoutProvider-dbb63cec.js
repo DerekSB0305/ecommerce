@@ -1,0 +1,1 @@
+import{r as s,W as a,_ as n,a as u}from"./app-22fcf5ab.js";const c=s.createContext(null);function p({children:r}){const{auth:e,note:t}=a().props,o=n({name:e.user.name,address:e.user.address,phone:e.user.phone,email:e.user.email,city:e.user.city,postalCode:"112233",note:t,paymentMethodId:null});return u(c.Provider,{value:{userForm:o},children:r})}export{p as C,c as a};

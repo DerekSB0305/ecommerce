@@ -1,0 +1,1 @@
+import{j as e,a as s}from"./app-22fcf5ab.js";import{S as a}from"./SectionTitle-19ef930b.js";const c=({children:t,title:i,entry:o})=>e("div",{className:"py-content",children:[s(a,{title:i,entry:o}),s("div",{className:"mt-8",children:t})]}),m=c;export{m as S};

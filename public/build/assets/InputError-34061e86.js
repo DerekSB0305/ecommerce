@@ -1,0 +1,1 @@
+import{a as n}from"./app-22fcf5ab.js";function o({message:t,className:r="",...e}){return t?n("p",{...e,className:"fonte-medium text-sm text-red-600 dark:text-red-400 mt-1 "+r,children:t}):null}export{o as I};

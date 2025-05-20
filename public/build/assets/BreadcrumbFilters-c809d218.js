@@ -1,0 +1,1 @@
+import{W as t,a as r}from"./app-22fcf5ab.js";import{B as e}from"./Breadcrumb-9e0b6cf9.js";import"./bootstrap-74cea6cc.js";function c({filtersActive:s}){const{breadcrumb:a}=t().props;return r("div",{className:"w-full",children:r(e,{data:a})})}export{c as default};
